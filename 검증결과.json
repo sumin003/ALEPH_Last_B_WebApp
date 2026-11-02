@@ -1,0 +1,15 @@
+{
+  "case_plans_checked": 11,
+  "all_steps_have_sources": true,
+  "domestic_transfer_priority": true,
+  "installation_transfer_order": true,
+  "no_install_refusal_after_installation": true,
+  "foreign_no_domestic_freeze_assumption": true,
+  "malformed_inputs": 3,
+  "section_order": true,
+  "telephone_links": 0,
+  "new_case_friend_document_only_browser_check": true,
+  "new_case_install_transfer_browser_check": true,
+  "browser_visual_check": "desktop new navy/blue design checked",
+  "mobile_layout": "CSS breakpoints provided; no separate mobile browser test"
+}

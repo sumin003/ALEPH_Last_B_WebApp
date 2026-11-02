@@ -1,0 +1,187 @@
+{
+  "description": "공식 기관 공개자료를 연구자가 요약한 학습용 사례. 실제 피해자의 개인정보를 포함하지 않음. 신규 가상 피해사건이나 실제 사건 원문이 아님.",
+  "cases": [
+    {
+      "id": "C01",
+      "source": 5,
+      "location": "사례 예시 1",
+      "kind": "기관 수법 예시",
+      "facts": "법원 등기 수령 가능 여부와 주소를 확인한 뒤 앱 설치 유도 문자를 보낸다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C02",
+      "source": 5,
+      "location": "사례 예시 2",
+      "kind": "기관 수법 예시",
+      "facts": "등기가 반송됐다며 불이익을 언급하고 링크에서 수령일자를 확인하도록 요구한다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C03",
+      "source": 5,
+      "location": "사례 예시 3",
+      "kind": "기관 수법 예시",
+      "facts": "송달 도착 안내서의 담당자 번호로 연락하게 한 뒤 개인정보를 요구한다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C04",
+      "source": 6,
+      "location": "사례 1",
+      "kind": "공관 공개 사례 요약",
+      "facts": "총영사관 직원을 사칭하여 여권 무효화를 명목으로 이메일 주소를 요구한다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C05",
+      "source": 6,
+      "location": "사례 2",
+      "kind": "공관 공개 사례 요약",
+      "facts": "여권이 베트남에서 악용됐다며 이후 대사관 사칭 전화를 받아 지시를 따르도록 요구한다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C06",
+      "source": 6,
+      "location": "사례 3",
+      "kind": "공관 공개 사례 요약",
+      "facts": "여권 악용 우려를 내세워 이후 영사관 사칭 전화를 따르게 하며 실제 기관 번호가 착신 표시된다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C07",
+      "source": 6,
+      "location": "사례 4",
+      "kind": "공관 공개 사례 요약",
+      "facts": "여권 무효화를 명목으로 총영사관 사칭 후속 전화를 예고하며 실제 영사콜센터 번호가 착신 표시된다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C08",
+      "source": 6,
+      "location": "사례 5",
+      "kind": "공관 공개 피해 요약",
+      "facts": "세관·경찰을 사칭하고 범죄 연루를 협박했다. 텔레그램 설치, 여권 사진 전달, 일본 계좌 입금이 기록돼 있다. 정상 메신저를 악성앱으로 분류하지 않는다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C09",
+      "source": 7,
+      "location": "1쪽 수법 설명 및 대응",
+      "kind": "기관이 3건을 묶어 설명한 수법",
+      "facts": "공무원·기관 명의를 사칭한 위조 공문과 명함으로 납품 계약을 제안하고 중간업체 등에 선입금을 요구한다. 접수 3건의 공통 설명을 한 단위로 보존한다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C10",
+      "source": 8,
+      "location": "붙임1 PDF 5쪽 접근·기망 단계",
+      "kind": "경찰의 피해사례 재구성",
+      "facts": "신청하지 않은 카드 배송에서 가짜 고객센터로 연결하고 원격제어앱과 인증번호 입력을 유도한다. 범인은 악성앱을 설치하고 가짜 사건조회 사이트에서 인적사항을 입력하게 한다. 이 기록은 접근·기망 단계에 한정한다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    },
+    {
+      "id": "C11",
+      "source": 14,
+      "location": "타인/기관 사칭 피싱 주의 — 수사기관 사칭 및 신고 안내",
+      "kind": "추가 학습 예시 · 공식 안내 기반 재구성",
+      "facts": "카카오톡 친구 추가를 유도하고 검찰 신분증·공문·영장 이미지로 안심시킨 뒤, 수사 협조를 명목으로 앱 설치·정보 전달·송금을 요구하는 흐름입니다. 기관 사칭과 위조 문서·앱 설치 요구에 관한 공식 안내를 연결한 학습 예시이며, 특정 한 사건의 실제 진행 순서를 뜻하지 않습니다. 친구 추가나 이미지 열람만으로 악성앱 감염을 단정하지 않습니다.",
+      "event_date": null,
+      "received_date": "2026-11-02"
+    }
+  ],
+  "sources": {
+    "5": {
+      "id": 5,
+      "author": "사법연수원",
+      "date": "2025-07-08",
+      "title": "법원 사칭 보이스피싱 주의 안내",
+      "url": "https://jrti.scourt.go.kr/dcboard/new/DcNewsViewAction.work?cbub_code=000130&gubun=41&pageIndex=3&scode_kname=&searchWord=&seqnum=17890",
+      "access_date": "2026-11-02"
+    },
+    "6": {
+      "id": 6,
+      "author": "주히로시마 대한민국 총영사관",
+      "date": "2025-04-25",
+      "title": "공관 정부기관 등 사칭 보이스피싱 사례 및 예방 안내",
+      "url": "https://www.mofa.go.kr/jp-osaka-ko/brd/m_26891/view.do?seq=1945472",
+      "access_date": "2026-11-02"
+    },
+    "7": {
+      "id": 7,
+      "author": "제주특별자치도 농업기술원",
+      "date": "2025-12-17",
+      "title": "도내 농업 관련 업체 노린 공공기관 사칭 보이스피싱 주의",
+      "url": "https://agri.jeju.go.kr/files/board/88c69214-ab23-4fbc-9329-8d11000ec47b.pdf",
+      "access_date": "2026-11-02"
+    },
+    "8": {
+      "id": 8,
+      "author": "경찰청 국가수사본부",
+      "date": "2024-10-24",
+      "title": "기관사칭형 보이스피싱 60대 여성을 노린다",
+      "url": "https://www.counterscam112.go.kr/pdf/bbs002/2/FILE_000000000000079/viewer.do",
+      "access_date": "2026-11-02"
+    },
+    "9": {
+      "id": 9,
+      "author": "금융위원회·금융감독원",
+      "date": "2026-02-10",
+      "title": "온 가족이 모인 설 명절 보이스피싱 예방 행동수칙을 기억하세요 보이스피싱 피해예방 10계명",
+      "url": "https://www.fsc.go.kr/po010101/86250",
+      "access_date": "2026-11-02"
+    },
+    "10": {
+      "id": 10,
+      "author": "금융위원회",
+      "date": "2026-10-06",
+      "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱 스미싱 등 피해에 주의하세요",
+      "url": "https://www.fsc.go.kr/no010101/87882",
+      "access_date": "2026-11-02"
+    },
+    "12": {
+      "id": 12,
+      "author": "금융위원회",
+      "date": "2026-09-18",
+      "title": "추석 명절 전후 보이스피싱 피해에 주의하세요",
+      "url": "https://www.fsc.go.kr/no010101/87779",
+      "access_date": "2026-11-02"
+    },
+    "13": {
+      "id": 13,
+      "author": "금융위원회",
+      "date": "2025-09-22",
+      "title": "소비쿠폰 조회 신청 사칭 스미싱 소비자경보 상향",
+      "url": "https://www.fsc.go.kr/no010101/85338?curPage=72&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=all&srchText=",
+      "access_date": "2026-11-02"
+    },
+    "14": {
+      "id": 14,
+      "author": "카카오",
+      "date": "발표일 미표기",
+      "title": "타인/기관 사칭 피싱 주의",
+      "url": "https://talksafety.kakao.com/toolandguide/phishing/organization",
+      "access_date": "2026-11-02"
+    },
+    "15": {
+      "id": 15,
+      "author": "카카오",
+      "date": "발표일 미표기",
+      "title": "의심스러운 카카오톡 ID 추가 시 주의",
+      "url": "https://talksafety.kakao.com/toolandguide/suspicious",
+      "access_date": "2026-11-02"
+    }
+  },
+  "additional_example_note": "C11은 공식 안내를 연결한 앱 추가 학습 예시이며 논문의 기존 10개 분석 표본에 포함하지 않음."
+}
